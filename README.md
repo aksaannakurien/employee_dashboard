@@ -1,4 +1,4 @@
-# Employee Dashboard - React Application (Assignment 2)
+# Employee Dashboard - React Application 
 
 A responsive, modern Employee Management Dashboard built using **React**, **React Router**, and **Bootstrap 5**, integrated with the **JSONPlaceholder REST API**.
 
